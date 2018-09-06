@@ -1,6 +1,6 @@
 ## Example: consume a webservice SOAP from cloud Function
 Consume a webservice SOAP from cloud Function, this example consume a Exchange from BANGUAT (banco de Guatemala)
-**remember, cloud functions free version, only can consume resources within google cloud. The Out resources required pay.
+**Remember, cloud functions free version, only can consume resources within google cloud. The Out resources required pay.**
 
 
 ## Setting up the sample
